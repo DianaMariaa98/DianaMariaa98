@@ -21,7 +21,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/dianapirlici" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dianapirlici" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/diana-pirlici/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dianapirlici" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Tools and languages</h3>
@@ -138,6 +138,15 @@
           height="40"
         />
       </a>
+
+<hr>
+
+<h3 align="center">Check out my Projects!😊 📚</h3>
+
+
+<p align="center" target="_blank"><a href="https://dianamariaa98.github.io/Project_1_Game/" rel="noreferrer">Race of Thrones</a></p>
+<p align="center"><a href="https://gaminghub.cyclic.app/" target="_blank" rel="noreferrer">GamingHub</a></p>
+<p align="center"><a href="https://ihikers.netlify.app/" target="_blank" rel="noreferrer">TrueHikers</a></p>
 
 <hr>
 
