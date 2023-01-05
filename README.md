@@ -147,7 +147,7 @@
 <p align="center" target="_blank"><a href="https://dianamariaa98.github.io/Project_1_Game/" rel="noreferrer">Race of Thrones</a></p>
 <p align="center"><a href="https://gaminghub.cyclic.app/" target="_blank" rel="noreferrer">GamingHub</a></p>
 <p align="center"><a href="https://ihikers.netlify.app/" target="_blank" rel="noreferrer">TrueHikers</a></p>
-<p align="center"><a href="[https://ihikers.netlify.app/](https://app.netlify.com/sites/transcendent-bombolone-d6381c/overview)" target="_blank" rel="noreferrer">Portofolio</a></p>
+<p align="center"><a href="https://ihikers.netlify.app/](https://app.netlify.com/sites/transcendent-bombolone-d6381c/overview" target="_blank" rel="noreferrer">Portofolio</a></p>
 
 <hr>
 
